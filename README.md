@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=owxiang&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owxiang&layout=compact)](https://github.com/owxiang/github-readme-stats)
-
 <p>
   <a target="_blank"href="https://www.linkedin.com/in/ongweixiang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
