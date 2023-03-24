@@ -4,11 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=owxiang&theme=dark)](https://git.io/streak-stats)
 
-<p>
-  <a target="_blank"href="https://www.linkedin.com/in/ongweixiang/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-
 <img src="https://komarev.com/ghpvc/?username=owxiang" alt="https://github.com/owxiang" />
 
 <!---
