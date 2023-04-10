@@ -6,6 +6,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=owxiang" alt="https://github.com/owxiang" />
 
-![Private Repositories](https://img.shields.io/badge/Private%20Repos-13-blue)
-
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-1-brightgreen)
+![Private Repositories](https://img.shields.io/badge/Private%20Repos-14-brightgreen)
