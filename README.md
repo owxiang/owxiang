@@ -1,4 +1,4 @@
 👋 Hi, I’m @owxiang
 
-- [AWS What's New](https://t.me/WhatsNewAtAWS)
+- [Cloud What's New](https://t.me/CloudWhatsNew)
 - [Singapore Weather Broadcast](https://t.me/WeatherBroadcastSG)
